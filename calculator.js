@@ -22,6 +22,7 @@ console.log(calculator.multiply(10, 5));
 console.log(calculator.divide(10, 5));
 */
 
+// Using class
 class Calculator {
   constructor(a, b) {
     this.a = a;
